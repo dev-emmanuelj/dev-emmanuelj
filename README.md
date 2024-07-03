@@ -1,6 +1,8 @@
 
 <p align="center">
+  
   ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Emmanuel+Joseph;Welcome+to+Github+Profile)
+
 </p>
 # About:
 
