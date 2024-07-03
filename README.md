@@ -1,6 +1,6 @@
-
+<div>
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Emmanuel+Joseph;Welcome+to+Github+Profile)
-  
+</div>
 # About:
 
 Hello! I'm Emmanuel Joseph, a passionate software engineer with a knack for technical writing. With a background in full-stack web development, I specialize in creating efficient and scalable solutions that make a difference.
