@@ -1,5 +1,6 @@
 
 <p align="center">This text will be centered</p>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Emmanuel+Joseph;Welcome+to+Github+Profile)
 
 # About:
