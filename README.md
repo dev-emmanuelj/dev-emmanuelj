@@ -7,10 +7,10 @@ Hi, I'm a software engineer who loves both coding and technically documenting pr
 
 ## 🚀 Technical Skills
 
-- **Programming Languages:** Python, JavaScript, Java, C++
+- **Programming Languages:** Python, JavaScript, C++
 - **Web Development:** HTML, CSS, React, Node.js
-- **Database Management:** MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms:** Git, Docker, AWS, Jenkins
+- **Database Management:** MySQL
+- **Tools & Platforms:** Git, Docker
 
 ## 📝 Technical Writing
 
@@ -20,7 +20,7 @@ Beyond coding, I have a keen interest in technical writing. I enjoy breaking dow
 
 - **Full-Stack Web Development:** Building responsive and dynamic web applications using modern frameworks and technologies.
 - **API Development & Integration:** Designing and integrating RESTful APIs for seamless communication between client and server.
-- **Cloud Computing:** Deploying and managing applications on cloud platforms like AWS and Azure for scalable and reliable performance.
+- **Cloud Computing:** Deploying and managing applications on cloud platforms like AWS for scalable and reliable performance.
 - **DevOps:** Implementing CI/CD pipelines and automating workflows to ensure efficient and error-free software delivery.
 - **Machine Learning:** Developing machine learning models to derive insights and predictions from data.
 
