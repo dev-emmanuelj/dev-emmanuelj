@@ -7,8 +7,8 @@ Hi, I'm a software engineer who loves both coding and technically documenting pr
 
 ## 🚀 Technical Skills
 
-- **Programming Languages:** Python, JavaScript, C++
-- **Web Development:** HTML, CSS, React, Node.js
+- **Programming Languages:** Python, JavaScript, Java 
+- **Web Development:** HTML, CSS, React
 - **Database Management:** MySQL
 - **Tools & Platforms:** Git, Docker
 
