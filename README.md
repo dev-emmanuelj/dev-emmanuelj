@@ -3,7 +3,7 @@
 ![Emmanuel](https://github.com/emmanuelj-unit/emmanuelj-unit/blob/main/OIG1.KyUqbMpTNz.r99h7u77K-1.jpg)
 # About: Emmanuel
 
-Hi, I'm a software engineer who loves both coding and technically documenting processes. As a full-stack web developer, I enjoy finding solutions to complex problem. Whether I'm tackling a tough bug or writing up some tech docs, I bring my passion to everything I do.
+Hi, I'm a software engineer with love for coding and technically documenting processes. As a full-stack web developer, I enjoy finding solutions to complex problem. Whether I'm tackling a tough bug or writing up some tech docs, I bring my passion to everything I do.
 
 ## 🚀 Technical Skills
 
